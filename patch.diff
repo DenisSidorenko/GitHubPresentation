@@ -1,0 +1,25 @@
+From a4172be93ef1a9fb3aca4bbfa60166a7d355d101 Mon Sep 17 00:00:00 2001
+From: DenisSidorenko <dsi@sitecore.net>
+Date: Fri, 22 Sep 2017 19:33:57 +0300
+Subject: [PATCH] Test bug
+
+---
+ Root/Index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Root/Index.html b/Root/Index.html
+index d39ff0e..8114b5d 100644
+--- a/Root/Index.html
++++ b/Root/Index.html
+@@ -80,7 +80,7 @@
+     <nav>
+         <div class="container">
+             <div class="header-logo">
+-                <a href="https://sitecore.net" target="_blank">
++                a href="https://sitecore.net" target="_blank">
+                     <img src="images/sclogo.svg" alt="Sitecore Own the experience" svgimg="1" style="height: 42px">					
+                 </a>
+             </div>
+-- 
+2.14.1.windows.1
+
